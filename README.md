@@ -1,10 +1,10 @@
 # Indoor Positioning System Notebooks
-This is part of the [__YanuX Frameworl__](https://yanux-framework.github.io/).
+This is part of the [__YanuX Framework__](https://yanux-framework.github.io/).
 
 This repository hosts a series of [__Jupyter Notebooks__](https://jupyter.org/) that were used to explore multiple data analysis and machine learning solutions to assess their applicability to the [__Indoor Positioning Server__](https://github.com/YanuX-Framework/YanuX-IPSServer).
 
 ## Documentation
-### TODO:
+### TO DO:
 - Provide additional documentation.
 
 ## License
